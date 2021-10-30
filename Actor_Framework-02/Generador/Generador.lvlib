@@ -8,5 +8,4 @@
 		<Item Name="Write Config Signal Msg.lvclass" Type="LVClass" URL="../Generador Messages/Write Config Signal Msg/Write Config Signal Msg.lvclass"/>
 	</Item>
 	<Item Name="Generador.lvclass" Type="LVClass" URL="../Generador/Generador.lvclass"/>
-	<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 </Library>
